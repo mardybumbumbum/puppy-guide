@@ -16,8 +16,8 @@ PuppyGuide is a mobile-first puppy tracker web application built with Next.js, T
 
 ## Repository
 
-- **GitHub:** https://github.com/szymankiewicz1994/puppy-guide
-- **Owner:** szymankiewicz1994
+- **GitHub:** https://github.com/mardybumbumbum/puppy-guide
+- **Owner:** mardybumbumbum
 
 ## Project Goals
 
